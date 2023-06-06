@@ -1,9 +1,9 @@
 # reading-notes
 A notes page/notebook for all lessons from coding bootcamp
 ### Document Contents
-*About  
-*Introduction    
-*Growth Mindset
+* About  
+* Introduction    
+* Growth Mindset
 
 #### About
 
