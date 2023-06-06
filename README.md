@@ -5,19 +5,22 @@ A notes page/notebook for all lessons from coding bootcamp
 * Introduction    
 * Growth Mindset
 
-#### About
+### About
 
 This page is going to be the main area where I store my notes for the Tech Educators MERN stack coding bootcamp. I'll refer  
 back to these notes throughout the course to keep my knowledge up to date on all aspects of the course.  
 
 There is also a short introduction about myself and also a section for explaining what having a 'Growth Mindset' is and how to  
-maintain a growth mindset
+maintain a growth mindset.
 
 
 
 ### Introduction
 
-Hi my name is Johnny and I am a student on the Tech Educators full MERN stack coding bootcamp course.  
+Hi my name is Johnny and I am a student on the Tech Educators full MERN stack coding bootcamp course. I'm 29 years old and before  
+starting this coding course I  had a job in an IT Helpdesk which I had been doing for the last for the last 8 months. Previous to  
+that I've spent most of my career working in Customer Services for local governments. 
+
 My hobbies include:
 - Video Games
 - Running
