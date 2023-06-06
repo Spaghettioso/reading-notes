@@ -54,4 +54,4 @@ to someone who is ahead of you is setting yourself up for failure
 
 ![image of growth mindset vs fixed mindset}](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
 
-This is a link to my Github repos if you are interested in my other projects [link to my github repos](https://github.com/Spaghettioso?tab=repositories)
+This is a link to my Github repos if you are interested in my other projects [HERE](https://github.com/Spaghettioso?tab=repositories)
