@@ -15,7 +15,7 @@ _**this is bold and italicised text**_
 3. growth mindset
 4. new pages
 
--brief intro 
+- brief intro 
 * About
 + Growth Mindset
 + new pages
