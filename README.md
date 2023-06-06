@@ -7,7 +7,7 @@ A notes page/notebook for all lessons from coding bootcamp
 
 #### About
 
-This page is going to be the main area where I store my notes for the Tech Educators MERN stack coding bootcamp. I'll refer.  
+This page is going to be the main area where I store my notes for the Tech Educators MERN stack coding bootcamp. I'll refer  
 back to these notes throughout the course to keep my knowledge up to date on all aspects of the course.
 
 
