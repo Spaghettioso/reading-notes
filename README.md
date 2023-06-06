@@ -27,3 +27,10 @@ My hobbies include:
 - Running
 - Reading Sci-fi books
 - Dungeons and Dragons
+
+***
+
+#### About
+
+This is a page briefly describing myself and what growth mindset is.
+
