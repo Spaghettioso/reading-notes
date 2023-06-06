@@ -16,7 +16,7 @@ There is also a short introduction about myself and also a section for explainin
 maintain a growth mindset.
 
 ***
-
+traits
 ### Introduction
 
 Hi my name is Johnny and I am a student on the Tech Educators full MERN stack coding bootcamp course. I'm 29 years old and before  
@@ -39,5 +39,6 @@ Also, here is an image of an axolotl because I think they're cute:
 Personally, I believe that a growth mindset is the idea that you can significantly improve *how you learn* and *how well you learn*  
 through changing your thoughts and beliefs and how you view learning to cultivate a love of learning. 
 
-
+A growth mindset is in contrast to a fixed mindset, which sees things like intelligence and talent as fixed traits that cannot be improved.  
+It suggests that success comes from inherent qualities alone without the need for further development or effort.
 
