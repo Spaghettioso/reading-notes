@@ -42,3 +42,8 @@ through changing your thoughts and beliefs and how you view learning to cultivat
 A growth mindset is in contrast to a fixed mindset, which sees things like intelligence and talent as fixed traits that cannot be improved.  
 It suggests that success comes from inherent qualities alone without the need for further development or effort.
 
+### How can you maintain a Growth Mindset
+
+
+![image of growth mindset vs fixed mindset}](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
+
