@@ -19,6 +19,7 @@ _**this is bold and italicised text**_
 * About
 + Growth Mindset
 + new pages
+###Introduction###
 
 Hi my name is Johnny and I am a student on the Tech Educators full MERN stack coding bootcamp course.  
 My hobbies include:
