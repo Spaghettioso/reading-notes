@@ -45,10 +45,10 @@ It suggests that success comes from inherent qualities alone without the need fo
 ### How can you maintain a Growth Mindset?
 
 - Always maintain a positive point of view and make sure that any criticism is constructive rather than destructive
-- Take things one step at a time - There may be tough days when everything seems overwhelming so focus only on the next step because **the most  
-important step you can take is the next one**
-- Try to avoid comparing yourself to others - everyone is at a different stage in their coding journey so to compare yourself to someone who is  #
- ahead of you is setting yourself up for failure
+- Take things one step at a time - There may be tough days when everything seems overwhelming so focus only on the next step  
+ because **the most important step you can take is the next one**
+- Try to avoid comparing yourself to others - everyone is at a different stage in their coding journey so to compare yourself  
+to someone who is ahead of you is setting yourself up for failure
 
 ![image of growth mindset vs fixed mindset}](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
 
