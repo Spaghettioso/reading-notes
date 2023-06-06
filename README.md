@@ -50,5 +50,7 @@ It suggests that success comes from inherent qualities alone without the need fo
 - Try to avoid comparing yourself to others - everyone is at a different stage in their coding journey so to compare yourself  
 to someone who is ahead of you is setting yourself up for failure
 
+> Comparison is the thief of joy.  
+
 ![image of growth mindset vs fixed mindset}](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
 
