@@ -34,4 +34,4 @@ My hobbies include:
 
 This is a page briefly describing myself and what growth mindset is.
 
-! [This is an axolotl] (https://i.natgeofe.com/n/de94c416-6d23-45f5-9708-e8d56289268e/naturepl_01132178_4x3.jpg)
+![This is an axolotl](https://i.natgeofe.com/n/de94c416-6d23-45f5-9708-e8d56289268e/naturepl_01132178_4x3.jpg)
