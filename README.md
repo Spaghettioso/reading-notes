@@ -9,10 +9,10 @@ A notes page/notebook for all lessons from coding bootcamp
 *This is text in italics*  
 _**this is bold and italicised text**_  
 
-1. Brief intro
-2. about
-3. growth mindset
-4. new pages
+1. Brief intro  
+2. about  
+3. growth mindset  
+4. new pages  
 
 - brief intro 
 * About
