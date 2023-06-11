@@ -12,7 +12,7 @@ A notes page/notebook for all lessons from coding bootcamp
 **- coding 102 -**
 
 * [class-01](/102/class-01.md) - Growth Mindset
-* [class-02](/102/class-02.md) - Coders Computer & Learning Markdown
+* [class-02](/102/class-02.md) - Learning Markdown & Coders Computer
 * [class-03](/102/class-03.md) -  Git, Github and Version Control
 * [class-04](/102/class-04.md) - Introduction to HTML & CSS
 * [class-05](/102/class-05.md) - Introduction to Javascript
